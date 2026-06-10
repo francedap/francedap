@@ -5,22 +5,7 @@
 
 ### 📐 Design & CAD:
 
-  <a href="https://www.thingiverse.com/TUO-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Thingiverse-2483B0?style=flat-square&logo=thingiverse&logoColor=white" alt="Thingiverse"/>
-  </a>
-  <a href="https://www.printables.com/@TUO-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Printables-FA6831?style=flat-square&logo=printables&logoColor=white" alt="Printables"/>
-  </a>
-  <a href="https://cults3d.com/it/users/TUO-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Cults3D-FF6B35?style=flat-square&logo=cults3d&logoColor=white" alt="Cults3D"/>
-  </a>
-  <a href="https://www.behance.net/TUO-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance"/>
-  </a>
-  <a href="https://www.artstation.com/TUO-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=flat-square&logo=artstation&logoColor=white" alt="ArtStation"/>
-  </a>
-
+ ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) ![Fusion 360](https://img.shields.io/badge/Fusion_360-0696D7?style=flat-square&logo=autodesk&logoColor=white) ![Shapr3D](https://img.shields.io/badge/Shapr3D-000000?style=flat-square&logo=shapr3d&logoColor=white)
 
 
 ### 📫 Contatti Utili
@@ -29,15 +14,12 @@
   <a href="https://www.linkedin.com/in/francesco-dappiano" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  
   <a href="https://cults3d.com/it/users/Francedap" target="_blank">
     <img src="https://img.shields.io/badge/Cults3D-FF6B35?style=for-the-badge&logo=cults3d&logoColor=white" alt="Cults3D"/>
   </a>
-  
   <a href="https://www.instagram.com/france_dapp" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-
   <a href="mailto:francedapp@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
